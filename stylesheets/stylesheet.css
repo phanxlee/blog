@@ -148,10 +148,10 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
-img#logo {
+#logo {
   position: relative;
   margin: 0 auto;
-  padding: 5px;
+  padding: 0px;
   margin: 0px 0 0px 0;
   border: 0px solid;
 
